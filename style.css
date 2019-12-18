@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding:0;
+    background: url(bg.jpg) no-repeat;
+    background-sive: cover;
+}
+
+.box{
+    width: 450px;
+    background: rgba(0,0,0,0.4);
+    padding:40px;
+    margin:auto;
+    text-align:center;
+    margin-top: 5%;
+    color: white;
+    font-family:'Century Gothic',sans-serif;
+}
+
+.box-img{
+    border-radius: 50%;
+    width
+}
